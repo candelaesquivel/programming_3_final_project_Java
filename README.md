@@ -1,8 +1,10 @@
-# programming_3_final_project
-TPO of the subject Programming3 .
+# Programming_3_final_project
 
-# Kruskal algorithm
 
-# DisjointSet
+## The final programming 3 project is attached, the written deliverable and the java code are in the repository. Topics covered:
 
-# Priority queue
+## -Kruskal algorithm
+
+## -DisjointSet
+
+## -Priority queue
